@@ -201,18 +201,19 @@ footer nav a {
 }
 
 .MidSection{
- 
+    
+    margin: auto;
     display: flex;
     flex-flow: wrap;
     justify-content: space-around;
-    /* align-content: space-between; */
+    align-content: space-between;
     padding: 0% 2%;
 
 }
 .MidSectionLinks{
    
-    height: 80%;
-    width: 50%;
+    height: 420px;
+    width: 360px;
     border-bottom: 1px dashed black;
     margin-bottom: 3%;
     
