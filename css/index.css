@@ -205,13 +205,17 @@ footer nav a {
     display: flex;
     flex-flow: wrap;
     justify-content: space-around;
+    /* align-content: space-between; */
+    padding: 0% 2%;
+
 }
-.MidSection .MidSectionLinks{
+.MidSectionLinks{
    
     height: 80%;
     width: 50%;
     border-bottom: 1px dashed black;
     margin-bottom: 3%;
+    
 }
 .MidSectionPics{
     margin-bottom: 5%;
@@ -234,4 +238,6 @@ footer nav a {
 .BottomSection{
     margin-top: 3%;
     margin-bottom: 4%;
+    padding: 0% 2%; 
+    
 }
