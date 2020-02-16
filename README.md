@@ -33,14 +33,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+    -Semantic means to provide meaning to markup that we are using in a HTML page. In layman terms, pretend it is essay which has intro, body, and conclusion but also combined it with some additional presentation features such as header, footer, figures or other sections. Semantics help Search engines to navigate through content and understand its structure. Additionally, it allows screen readers and search bots to identify information on a page more efficiently as per its structure.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+    -Block always starts in new line when invoked while inline doesn't start new line. Both take as much as width available but if element has its display set to block will cause that element to start a new line.
 
 3. What are the 4 areas of the box model?
+    -Content, Padding, Border, and Margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+    -It works on the cross-axis on the given line. Perpendicular to the main axis.
 
 5. Explain why git is valuable to a team of developers.
+    -Git allows a team of developers to simultaneously work on project and its different aspects. Each member can work on their own without waiting on other teammate finish their part. Everyone can then send their changes and colloborate to reach MVP for the project. In additon, they can set 'checkpoints' for their projects to jump around if certain solutions are unable to reach MVP and also work on additional features without affecting main pipeline. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
